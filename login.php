@@ -1,9 +1,3 @@
 <?php 
-asdlgkjajs
-asdlgkjajsa
-
-
-
-asdgasg
-
+conflict
  ?>
